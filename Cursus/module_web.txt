@@ -1,0 +1,5 @@
+Module Développement Web
+Intervenants:
+	*Jean Thierry: formateur sur html, css
+	*Marie Durand: formatrice sur Javascript
+	*Addel Abou: formateur sur le naviayeur Edge
