@@ -1,0 +1,5 @@
+Module gestion de projet
+Intervenants:
+	*Jean Thierry: formateur sur Jira
+	*Marie Durand: formatrice sur SCRUM
+	*Addel Abou: formateur sur UML
