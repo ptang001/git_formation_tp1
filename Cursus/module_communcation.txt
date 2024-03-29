@@ -1,4 +1,4 @@
-Module Développement Web
+Module Communication
 Intervenants:
 	*Jean Thierry: formateur sur la négociation
 	*Marie Durand: formatrice sur la gestion de stress
