@@ -1,0 +1,5 @@
+Module Développement Web
+Intervenants:
+	*Jean Thierry: formateur sur la négociation
+	*Marie Durand: formatrice sur la gestion de stress
+	*Addel Abou: formateur sur la conduite de réunion
