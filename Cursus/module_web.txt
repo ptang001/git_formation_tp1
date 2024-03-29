@@ -3,3 +3,4 @@ Intervenants:
 	*Jean Thierry: formateur sur html, css
 	*Marie Durand: formatrice sur Javascript
 	*Addel Abou: formateur sur le naviayeur Edge
+	*Philippe David: formateur sur Angular
