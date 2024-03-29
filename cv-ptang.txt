@@ -1,0 +1,17 @@
+# NOM PRENOM: CHHAY Patrice
+
+# PROFIL : Consulatant JAVA/JEE
+
+# Compétences
+## Langages : Java, C/C++, SQL
+## Bases de données: Oracle, MySQL, PostGreSql
+## OS: Linux, Windows
+
+# Langues
+## Anglais: courant profesionnel
+## Vietnamien : oral
+
+#Expériences:
+## 01/2021-12/2023: Consultant Java chez VINCI
+## 01/2019-11/2023: Consultant Java chez Malakof Médéric
+## 01/2015-10/2019: Consultant Java chez Sopra
